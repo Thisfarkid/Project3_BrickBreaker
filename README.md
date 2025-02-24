@@ -14,7 +14,7 @@ Move the paddle using the W and A. Help the ball break all the bricks before you
 Built using Unity 2022.3.45f
 
 ## References
- * [Juice it or lose it — a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+ * Exercise3a Colors and Particles demonstration by Nathan Mishler
  * [Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
  * [Open Color open source color scheme](https://yeun.github.io/open-color/)
  * [League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
@@ -26,4 +26,4 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 
-Nathan Mishler
+Dylan Laiben
